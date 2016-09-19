@@ -27,3 +27,14 @@ cmake . \
 -DEXTRA_CHARSETS=all \
 -DDEFAULT_CHARSET=utf8 \
 -DDEFAULT_COLLATION=utf8_general_ci
+
+4.create data file & change file owner and access purview
+	chown -R mysql:mysql /usr/local/mysql
+	mkdir -p /var/mysql/logs
+	mkdir -p /var/mysql/data
+	mkdir -p /var/mysql/run
+
+	chown -R mysql:mysql /var/mysql/
+	chmod 766 -R /var/mysql/
+
+

@@ -37,4 +37,5 @@ cmake . \
 	chown -R mysql:mysql /var/mysql/
 	chmod 766 -R /var/mysql/
 
-
+5.run init database script
+	/usr/local/mysql/scripts/mysql_install_db --user=mysql --basedir=/usr/local/mysql --datadir=/var/mysql/data

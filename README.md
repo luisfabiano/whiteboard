@@ -1,3 +1,5 @@
+download mysql: http://120.52.72.23/cdn.mysql.com/c3pr90ntc0td/Downloads/MySQL-5.5/mysql-5.5.52.tar.gz
+
 1.install base software:
 
 	yum -y install  gcc gcc-c++ gcc-g77 autoconf automake zlib* fiex* libxml* ncurses-devel libmcrypt* libtool-ltdl-devel* make

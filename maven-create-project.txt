@@ -1,0 +1,9 @@
+mvn archetype:generate \
+-DgroupId=com.csp.system \
+-DartifactId=csp-system \
+-Dversion=1.0.0-SNAPSHOT \
+-Dpackage=com.csp.system \
+-DarchetypeArtifactId=maven-archetype-site-simple \
+-DarchetypeGroupId=org.apache.maven.archetypes \
+-DarchetypeVersion=1.1 \
+-DinteractiveMode=false

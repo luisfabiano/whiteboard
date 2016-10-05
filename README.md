@@ -1,3 +1,5 @@
+download jdk: http://download.oracle.com/otn-pub/java/jdk/7u79-b15/jdk-7u79-linux-i586.rpm
+
 download mysql: http://120.52.72.23/cdn.mysql.com/c3pr90ntc0td/Downloads/MySQL-5.5/mysql-5.5.52.tar.gz
 
 1.install base software:

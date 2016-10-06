@@ -41,3 +41,11 @@ cmake . \
 
 5.run init database script
 	/usr/local/mysql/scripts/mysql_install_db --user=mysql --basedir=/usr/local/mysql --datadir=/var/mysql/data
+	
+
+6.set 'source' args:
+modify in /etc/my.cnf
+interactive_timeout = 120
+wait_timeout = 120
+max_allowed_packet = 32M
+

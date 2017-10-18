@@ -44,8 +44,11 @@ cmake . \
 	
 
 6.set 'source' args:
-modify in /etc/my.cnf
-interactive_timeout = 120
-wait_timeout = 120
-max_allowed_packet = 32M
+	modify in /etc/my.cnf
+	interactive_timeout = 120
+	wait_timeout = 120
+	max_allowed_packet = 32M
 
+7.grant remore host access:
+	GRANT ALL PRIVILEGES ON *.* TO 'root'@'192.168.137.%' IDENTIFIED BY '' WITH GRANT OPTION;
+	FLUSH   PRIVILEGES;

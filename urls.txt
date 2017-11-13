@@ -1,3 +1,6 @@
+面向服务架构（SOA）和企业服务总线（ESB）
+	https://www.cnblogs.com/shanyou/archive/2008/04/19/1161452.html
+
 JVM参数配置大全
 	http://www.cnblogs.com/edwardlauxh/archive/2010/04/25/1918603.html
 

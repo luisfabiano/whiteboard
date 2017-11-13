@@ -1,0 +1,78 @@
+JVM参数配置大全
+	http://www.cnblogs.com/edwardlauxh/archive/2010/04/25/1918603.html
+
+构建汇编器:
+	http://www.cnblogs.com/fanzhidongyzby/p/5812140.html
+
+Spring Boot构建REST风格的web service:
+	http://jinnianshilongnian.iteye.com/blog/1997192
+
+java 彩色控制台:
+	https://github.com/fusesource/jansi
+
+netty构建telnet:
+	http://www.jianshu.com/p/5dcbc0456376
+
+Spring实现动态数据源，支持动态添加、删除和设置权重及读写分离:
+	http://www.bubuko.com/infodetail-1500381.html
+
+Spring实现动态数据源，支持动态添加、删除和设置权重及读写分离:
+	http://blog.csdn.net/hj7jay/article/details/51130410
+
+Spring cloud 中文网:
+	https://springcloud.cc/
+
+用Spring建立RESTful Web Service的Server和Client:
+	http://blog.csdn.net/fangzhenpeng/article/details/47778737
+
+系统负载能力
+	http://www.importnew.com/22025.html
+
+百万级别socket的连接
+	http://www.importnew.com/23293.html
+
+如何做性能测试
+	http://www.importnew.com/26897.html
+
+
+分布式事务
+	http://www.importnew.com/26212.html
+
+大文件处理经验
+	http://www.importnew.com/19681.html
+
+系统架构-性能篇章1（应用系统性能1）
+	http://www.importnew.com/18581.html
+
+java读取大文件的建议
+	http://www.importnew.com/14512.html
+
+使用Java处理大文件
+	http://www.importnew.com/10712.html
+
+Java高速、多线程虚拟内存
+	http://www.importnew.com/9270.html
+
+如何增强JAVA的I/O性能
+	http://www.importnew.com/1068.html
+
+
+浅析分布式下的事件驱动机制（ PubSub 模式 ）
+	http://www.importnew.com/26788.html
+
+JVM 垃圾回收算法及回收器详解
+	http://www.importnew.com/26383.html
+
+构建需求响应式亿级商品详情页
+	http://www.importnew.com/19238.html
+
+Jmeter基础（1）：jmeter基础概念
+	http://www.importnew.com/18472.html
+
+高吞吐量系统设计优化建议
+	http://www.importnew.com/16464.html
+
+企业级 Java 应用最重要的4个性能指标
+	http://www.importnew.com/16342.html
+
+

@@ -1,3 +1,20 @@
+﻿
+
+海量数据存储之Key-Value存储简介
+	http://forchenyun.iteye.com/blog/744935
+
+关于海量数据存储与查询的思考
+	https://www.cnblogs.com/programmerblog/p/bigdata.html
+
+海量数据存储
+	http://www.epubit.com.cn/article/290
+
+海量数据、高并发优化方案
+	http://mengqingyu.iteye.com/blog/1830572
+
+40个Java集合面试问题和答案
+	http://www.importnew.com/15980.html
+
 面向服务架构（SOA）和企业服务总线（ESB）
 	https://www.cnblogs.com/shanyou/archive/2008/04/19/1161452.html
 

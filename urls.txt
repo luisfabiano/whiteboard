@@ -1,4 +1,5 @@
-﻿
+﻿JVM 优化经验总结﻿
+	https://www.ibm.com/developerworks/cn/java/j-lo-jvm-optimize-experience/index.html
 
 海量数据存储之Key-Value存储简介
 	http://forchenyun.iteye.com/blog/744935

@@ -1,4 +1,22 @@
-﻿Netty系列之Netty百万级推送服务设计要点
+﻿Netty高性能大容量Socket并发（一）：Netty性能测试.
+	http://blog.csdn.net/sqldebug_fan/article/details/49801259
+
+新一代大数据处理引擎 Apache Flink
+	https://www.ibm.com/developerworks/cn/opensource/os-cn-apache-flink/
+
+高可用的MongoDB集群－实战篇
+	http://www.cnblogs.com/smartloli/p/4421776.html
+
+高可用的MongoDB集群
+	https://www.cnblogs.com/smartloli/p/4305739.html
+
+通过JMX监控Zookeeper
+	http://blog.csdn.net/u013673976/article/details/47321067
+
+JMX自动监控Java应用 解决well-known file is not secure
+	http://blog.csdn.net/asdfasdfafasdf/article/details/52203645
+
+Netty系列之Netty百万级推送服务设计要点
 	http://www.infoq.com/cn/articles/netty-million-level-push-service-design-points
 
 JVM 优化经验总结﻿

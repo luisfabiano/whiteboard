@@ -1,4 +1,19 @@
-﻿Netty高性能大容量Socket并发（一）：Netty性能测试.
+﻿ConcurrentHashMap原理分析
+	https://www.cnblogs.com/ITtangtang/p/3948786.html
+
+Netty实现原理浅析
+	http://www.importnew.com/15656.html
+
+为什么选择Netty作为基础通信框架
+	http://blog.csdn.net/broadview2006/article/details/46041995
+
+Netty面试相关
+	http://blog.csdn.net/baiye_xing/article/details/76735113
+
+CarpenterLee博客
+	http://www.cnblogs.com/CarpenterLee/
+
+Netty高性能大容量Socket并发（一）：Netty性能测试.
 	http://blog.csdn.net/sqldebug_fan/article/details/49801259
 
 新一代大数据处理引擎 Apache Flink

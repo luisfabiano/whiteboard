@@ -1,4 +1,4 @@
-﻿ConcurrentHashMap原理分析
+﻿﻿ConcurrentHashMap原理分析
 	https://www.cnblogs.com/ITtangtang/p/3948786.html
 
 Netty实现原理浅析
@@ -12,6 +12,62 @@ Netty面试相关
 
 CarpenterLee博客
 	http://www.cnblogs.com/CarpenterLee/
+
+﻿common-pool2对象池的详解与使用
+	http://blog.csdn.net/youxijishu/article/details/53354211
+
+Dubbo原理解析-集群&容错之Cluster
+	http://blog.csdn.net/quhongwei_zhanqiu/article/details/41701537
+
+Zookeeper 简单的分布式锁实现
+	http://dba10g.blog.51cto.com/764602/1975120
+
+Dubbo点滴(2)之集群容错
+	http://dba10g.blog.51cto.com/764602/1882850
+
+Dubbo参数调优说明
+	http://blog.csdn.net/youaremoon/article/details/51884644
+
+Dubbo服务化框架使用整理
+	https://www.cnblogs.com/wshcn/p/7137809.html
+
+Dubbo的几种负载据横算法
+	http://blog.csdn.net/u011225629/article/details/52459226
+
+使用Dubbo你所需要注意的
+	http://www.jianshu.com/p/48d3b1926086
+
+Dubbo框架疯狂更新
+	http://www.bubuko.com/infodetail-2401284.html
+
+Jmeter实现WebSocket协议的接口和性能测试方法
+	https://www.cnblogs.com/ListenWind/p/4760179.html
+
+Jmeter+TCP\Sockets(8583)报文压力测试
+	https://www.cnblogs.com/yinhen00/archive/2016/12/20/6202891.html
+
+架构师特刊：深入浅出Netty
+	http://www.infoq.com/cn/minibooks/netty-in-depth
+
+Netty版本升级血泪史之线程篇
+	http://www.infoq.com/cn/articles/netty-version-upgrade-history-thread-part/
+
+Java Caching(缓存)-策略和JCache API
+	http://blog.csdn.net/boonya/article/details/54632129
+
+Java ClassLoader内存溢出 - 从tomcat的reload说起
+	http://www.cnblogs.com/gisblogs/p/5522433.html
+	
+
+classloader-leak-prevention
+	https://github.com/mjiderhamn/classloader-leak-prevention
+
+实现一套灰度发布系统需要考虑哪些问题
+	https://www.zhihu.com/question/20584476
+
+Java的main方法背后的故事
+	http://www.cnblogs.com/softidea/p/5175069.html
+>>>>>>> refs/remotes/origin/master
 
 Netty高性能大容量Socket并发（一）：Netty性能测试.
 	http://blog.csdn.net/sqldebug_fan/article/details/49801259

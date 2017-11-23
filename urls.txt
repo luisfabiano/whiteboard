@@ -1,4 +1,52 @@
-﻿﻿ConcurrentHashMap原理分析
+﻿付钱拉交易系统架构演进与思考
+	http://www.infoq.com/cn/interviews/interview-with-zhouheng-talk-fuqianla-develop?utm_source=interviews_about_architecture-design&utm_medium=link&utm_campaign=architecture-design
+
+redis 缓存穿透和缓存雪崩的预防和解决
+	http://blog.csdn.net/lizhi_java/article/details/68953014?locationNum=14&fps=1
+
+HBase性能测试报告
+	http://blog.163.com/liaoxiangui@126/blog/static/79569640201271181147295/
+
+Hbase万亿级存储性能优化总结
+	http://blog.csdn.net/odailidong/article/details/41794403
+
+zookeeper项目使用几点小结
+	http://agapple.iteye.com/blog/1184023
+
+一个基于zookeeper实现的分布式锁的性能测试
+	http://liguanqun811.iteye.com/blog/2184566
+
+Zookeeper运维的一些经验
+	http://www.jianshu.com/p/4a16d9f36b61
+
+Redis 如何分布式，来看京东金融的设计与实践
+	http://www.infoq.com/cn/articles/jingdong-redis-practice?utm_campaign=rightbar_v2&utm_source=infoq&utm_medium=articles_link&utm_content=link_text
+
+Spring Boot非web应用程序实例
+	http://www.yiibai.com/spring-boot/non-web-application-example.html
+
+MongoDB 之类的 NoSQL 与关系型数据库相比，各有什么优缺点及适用场景？
+	https://www.zhihu.com/question/20059632
+
+放弃Dubbo，选择最流行的Spring Cloud微服务架构实践与经验总结
+	http://developer.51cto.com/art/201710/554633.htm
+
+架构师之路-创业互联网公司如何搭建自己的技术架构
+	http://developer.51cto.com/art/201710/553642.htm
+
+每秒处理请求数不等于并发量
+	http://blog.csdn.net/leigin/article/details/51105501
+
+对于 Netty ByteBuf 的零拷贝(Zero Copy) 的理解
+	http://www.cnblogs.com/xys1228/p/6088805.html
+
+亿级用户体量，千万级日活用户，《王者荣耀》高并发背后的故事
+	http://developer.51cto.com/art/201710/555167.htm
+
+千万级并发实现的秘密：内核不是解决方案，而是问题所在	
+	https://www.csdn.net/article/2013-05-16/2815317-The-Secret-to-10M-Concurrent-Connections
+
+﻿ConcurrentHashMap原理分析
 	https://www.cnblogs.com/ITtangtang/p/3948786.html
 
 Netty实现原理浅析

@@ -1,4 +1,19 @@
-﻿付钱拉交易系统架构演进与思考
+﻿PowerMock介绍
+	http://blog.csdn.net/jackiehff/article/details/14000779
+
+MySQL索引原理及慢查询优化
+	http://www.jfox.info/mysql-suo-yin-yuan-li-ji-man-cha-xun-you-hua.html
+
+关于Java面试，你应该准备这些知识点
+	http://www.jfox.info/guan-yu-java-mian-shi-ni-ying-gai-zhun-bei-zhe-xie-zhi-shi-dian.html
+
+20+条MySQL性能优化的最佳经验
+	http://www.jfox.info/20-tiao-mysql-xing-nen-you-hua-de-zui-jia-jing-yan.html
+
+高并发之路上的一次惨痛经历
+	http://www.sohu.com/a/146348323_765820
+
+付钱拉交易系统架构演进与思考
 	http://www.infoq.com/cn/interviews/interview-with-zhouheng-talk-fuqianla-develop?utm_source=interviews_about_architecture-design&utm_medium=link&utm_campaign=architecture-design
 
 redis 缓存穿透和缓存雪崩的预防和解决

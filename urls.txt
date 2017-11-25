@@ -1,4 +1,7 @@
-﻿PowerMock介绍
+﻿Java程序执行超时——Future接口介绍
+	http://blog.csdn.net/hguang_zjh/article/details/33724273
+
+PowerMock介绍
 	http://blog.csdn.net/jackiehff/article/details/14000779
 
 MySQL索引原理及慢查询优化

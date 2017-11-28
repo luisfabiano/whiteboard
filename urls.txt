@@ -1,4 +1,34 @@
-﻿Java程序执行超时——Future接口介绍
+﻿支付系统常用设计原则
+	https://segmentfault.com/a/1190000011763035
+
+支付系统学习笔记
+	http://m.blog.csdn.net/bohu83/article/details/77150460
+
+游戏内统一支付系统设计与实现
+	http://www.vimer.cn/archives/2974.html
+
+一个典型支付系统的设计与实现
+	http://www.vimer.cn/archives/2193.html
+
+支付系统设计：对账处理（二）
+	http://www.woshipm.com/it/459445.html
+
+支付系统全面解析
+	http://www.360doc.com/content/17/0420/18/36006814_647162383.shtml
+
+从支付架构到风控报警，支付系统的设计如何环环相扣
+	http://www.mpaypass.com.cn/news/201707/04085847.html
+
+第三方支付架构设计之—帐户体系
+	http://blog.csdn.net/tenfyguo/article/details/41660281
+
+互联网支付系统整体架构设计
+	http://www.sohu.com/a/139083631_499199
+
+支付宝钱包系统架构内部剖析（架构图）
+	http://www.woshipm.com/pmd/160822.html
+
+Java程序执行超时——Future接口介绍
 	http://blog.csdn.net/hguang_zjh/article/details/33724273
 
 PowerMock介绍
@@ -123,7 +153,6 @@ Java Caching(缓存)-策略和JCache API
 
 Java ClassLoader内存溢出 - 从tomcat的reload说起
 	http://www.cnblogs.com/gisblogs/p/5522433.html
-	
 
 classloader-leak-prevention
 	https://github.com/mjiderhamn/classloader-leak-prevention
@@ -133,7 +162,6 @@ classloader-leak-prevention
 
 Java的main方法背后的故事
 	http://www.cnblogs.com/softidea/p/5175069.html
->>>>>>> refs/remotes/origin/master
 
 Netty高性能大容量Socket并发（一）：Netty性能测试.
 	http://blog.csdn.net/sqldebug_fan/article/details/49801259

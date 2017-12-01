@@ -1,4 +1,28 @@
-﻿支付系统常用设计原则
+﻿程序员之洞
+	http://blog.csdn.net/acmman
+
+Activiti入门六(集成新版Activiti Modeler与Rest服务)
+	http://blog.csdn.net/whatlookingfor/article/details/52958668
+
+Activiti工作流的应用示例
+	http://www.cnblogs.com/hellowood23/p/5437909.html
+
+全文检索Lucene（一）---快速入门
+	http://blog.csdn.net/qq_36414013/article/details/74998973
+
+探讨一下常见支付系统的对外接口
+	https://segmentfault.com/a/1190000008942039
+
+Java的线程、锁相关
+	https://segmentfault.com/a/1190000009265613
+
+分布式事务-最大努力交付 && 消息最终一致性方案（微服务）
+	https://segmentfault.com/a/1190000011479826
+
+面试经典六问
+	http://atongyeye.iteye.com/blog/2147460
+
+支付系统常用设计原则
 	https://segmentfault.com/a/1190000011763035
 
 支付系统学习笔记

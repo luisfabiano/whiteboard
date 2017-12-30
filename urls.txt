@@ -1,4 +1,25 @@
-﻿程序员之洞
+﻿一个项目的从零到一
+	https://www.jianshu.com/p/21009baf07b3
+
+一款产品从0到1诞生全流程
+	http://www.chanpin100.com/article/43533
+
+软件开发流程
+	https://baike.baidu.com/item/%E8%BD%AF%E4%BB%B6%E5%BC%80%E5%8F%91%E6%B5%81%E7%A8%8B/3430246?fr=aladdin
+
+敏捷开发
+	https://www.pmowner.com/category/agile/
+
+JVM知识点总览-中高级Java工程师面试必备
+	http://www.cnblogs.com/wangyayun/p/6557851.html
+
+Redis面试题及分布式集群
+	http://blog.csdn.net/yajlv/article/details/73467865
+
+mongodb在东亚航空的应用
+	http://blog.csdn.net/u010385646/article/details/52712605
+
+程序员之洞
 	http://blog.csdn.net/acmman
 
 Activiti入门六(集成新版Activiti Modeler与Rest服务)

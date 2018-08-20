@@ -1,3 +1,12 @@
+缓存穿透、缓存雪崩、key重建方案
+	https://www.cnblogs.com/duanxz/p/3788366.html
+
+JVM 性能调优实战之：一次系统性能瓶颈的寻找过程
+	https://www.cnblogs.com/duanxz/p/3508040.html
+
+《深入Java虚拟机学习笔记》- 第9章 垃圾收集
+	https://www.cnblogs.com/duanxz/p/3724404.html
+
 ﻿一个项目的从零到一
 	https://www.jianshu.com/p/21009baf07b3
 
